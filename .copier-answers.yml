@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0f7557b
+_src_path: https://github.com/schwallergroup/copier-liac.git
+author_email: jajaja@jajaj.com
+author_name: Emile Chauvel
+enforce_code_style: true
+github_org: Chemikarl
+package_name: exercicepackage
+project_name: exercicepackage
+short_description: Fetch from javascript a molecule image from smiles
