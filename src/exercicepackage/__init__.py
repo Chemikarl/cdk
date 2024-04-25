@@ -1,3 +1,3 @@
 """Fetch from javascript a molecule image from smiles."""
 
-from __future__ import annotations
+from exercice import smiles_depict_url, display_svg
